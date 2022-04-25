@@ -46,6 +46,6 @@
 [gmail]: mailto:jainanurag941@gmail.com
 [twitter]: https://twitter.com/AnuragJ84147816
 [youtube]: https://www.youtube.com/channel/UCUdeV_zDb4QyXPDFYl9egtQ
-[instagram]: https://www.instagram.com/anurag__jain__/
+[instagram]: https://www.instagram.com/_jainanurag_/
 [linkedin]: https://www.linkedin.com/in/anurag-jain-442ba4190
 [leetcode]: https://leetcode.com/anurag_jain/
