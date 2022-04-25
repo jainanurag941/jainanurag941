@@ -5,6 +5,7 @@
 - 💬 Ask me about Node.js, React, JavaScript and C++
 - 😎 Hobbies: Playing videogames, solving rubik's cube, cricket and programming.
 - Global rank 465 and AIR 21 in 2021-2022 ICPC , NERC, Northern Eurasia Onsite (Online Mirror)
+- Global rank 305 and AIR 9 in SWERC 2021-2022 - Online Mirror
 - Global rank 1613 and AIR 435 in Google Hashcode 2022
 
 ### Connect with me:
