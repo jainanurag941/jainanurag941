@@ -1,9 +1,11 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 ### I'm Anurag Jain
 
 - 🌱 I’m currently learning React and Data Structures
 - 💬 Ask me about Node.js, React, JavaScript and C++
 - 😎 Hobbies: Playing videogames, solving rubik's cube, cricket and programming.
+- Global rank 465 and AIR 21 in 2021-2022 ICPC , NERC, Northern Eurasia Onsite
+- Global rank 1613 and AIR 435 in Google Hashcode 2022
 
 ### Connect with me:
 
@@ -12,6 +14,7 @@
 [<img align="left" alt="Anurag's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Anurag's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anurag's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Anurag's LeetCode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 <br />
 
@@ -45,3 +48,4 @@
 [youtube]: https://www.youtube.com/channel/UCUdeV_zDb4QyXPDFYl9egtQ
 [instagram]: https://www.instagram.com/anurag__jain__/
 [linkedin]: https://www.linkedin.com/in/anurag-jain-442ba4190
+[leetcode]: https://leetcode.com/anurag_jain/
