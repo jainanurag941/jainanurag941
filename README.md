@@ -1,8 +1,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 ### I'm Anurag Jain
 
-- 🌱 I’m currently learning React and Data Structures
-- 💬 Ask me about Node.js, React, JavaScript and C++
+- 🌱 Sharping my Data Structures and React knowledge
+- 💬 Ask me about Node.js, React and C++
 - 😎 Hobbies: Playing videogames, solving rubik's cube, cricket and programming.
 - Global rank 465 and AIR 21 in 2021-2022 ICPC , NERC, Northern Eurasia Onsite (Online Mirror)
 - Global rank 305 and AIR 9 in SWERC 2021-2022 - Online Mirror
